@@ -3,9 +3,7 @@
 
 **Interests**
 ---
-* Ai 🧠
-* Robotics 🤖
-* Dev/Programming 💻
+Anything creative tbh
 
 
 **How to reach me**
