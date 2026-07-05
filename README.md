@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ I'm Frio [@friomademyday]
+# I'm Frio [@friomademyday]
 
 Creativity is Bliss, Involve me
 
