@@ -32,8 +32,18 @@ Creativity is Bliss, Involve me
 
 <div align="center">
 
-## 🛠️ Mains
+## 🛠️ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,c,php,mongodb,postgres,koyeb,render,heroku,docker,git,vscode,arduino,matlab,linux,go,shell,coffeescript,haskell" />
+<b>Languages</b>
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php,go,haskell,html,css,react" />
+
+<b>Backend & Db</b>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,redis,sqlite,supabase,firebase" />
+
+<b>Tools & Cloud</b>
+<br>
+<img src="https://skillicons.dev/icons?i=github,heroku,docker,git,vscode,arduino,matlab,linux" />
 
 </div>
